@@ -1,0 +1,12 @@
+com\example\splitwise\controller\GroupController.class
+com\example\splitwise\controller\AuthController.class
+com\example\splitwise\model\ExpenseShare.class
+com\example\splitwise\repository\ExpenseRepository.class
+com\example\splitwise\model\User.class
+com\example\splitwise\repository\GroupRepository.class
+com\example\splitwise\repository\UserRepository.class
+com\example\splitwise\SplitwiseApplication.class
+com\example\splitwise\model\Expense.class
+com\example\splitwise\controller\ExpenseController.class
+com\example\splitwise\model\ExpenseGroup.class
+com\example\splitwise\repository\ExpenseShareRepository.class
